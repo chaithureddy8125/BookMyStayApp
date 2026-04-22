@@ -14,6 +14,7 @@ public class BookMyStayApp {
         System.out.println("3. Exit");
 
         System.out.print("\nPlease select an option: ");
+
         int choice = scanner.nextInt();
 
         switch (choice) {
